@@ -1,0 +1,64 @@
+{
+  "title": "归潮群岛：雾海来信",
+  "sourceCommit": "922554e0601a7516ba4177a03bfb3d7e37003f1f",
+  "sourcePublicationVersion": 5,
+  "preparedAt": "2026-10-31T03:34:35.631Z",
+  "files": {
+    "index.html": {
+      "bytes": 1134978,
+      "sha256": "2f070ffb05f7270020a2a4ade3273e4cf12b487fa9f2eb93d48cba6f65a858da"
+    },
+    "assets/world.glb": {
+      "bytes": 8981000,
+      "sha256": "44f4de52c3e200d3c378a41b4409c94d6106434ae806f24698fec7b3df73c08c"
+    },
+    "assets/characters.glb": {
+      "bytes": 3034880,
+      "sha256": "4b56130ef065e8b8e8870c211648ef18cce6e7d1d31d74a4f7bd541e58216826"
+    },
+    "assets/portrait-yuzhou.png": {
+      "bytes": 315469,
+      "sha256": "cfbd3d57daeb6dc38b20249813b0994546489708c1e3fa010909643c88929509"
+    },
+    "assets/portrait-linxi.png": {
+      "bytes": 312438,
+      "sha256": "5d2855736d0c0e451778bcb35f3ac7c7f305853c2736e2d651627bfbcafad034"
+    },
+    "assets/portrait-aye.png": {
+      "bytes": 322199,
+      "sha256": "55fcd08c6d30d04b69571d8910777bab1a7e31e9e3870641f2ffb8ae90f47675"
+    },
+    "assets/portrait-qichuan.png": {
+      "bytes": 317154,
+      "sha256": "e15f36f50c16bb2497bb3787a580e303443ae89e34933525c884f5def9c2005e"
+    },
+    "assets/portrait-suhe.png": {
+      "bytes": 324714,
+      "sha256": "5717090c284169106c4e887af7e443f68e4db0eeea87988470deff9ee6763423"
+    },
+    "assets/portrait-guyan.png": {
+      "bytes": 313455,
+      "sha256": "6d74e7465a73c3b829026574478192784bf805e49f8d1b71e27c5e22a28d7455"
+    },
+    "assets/portrait-yulan.png": {
+      "bytes": 319177,
+      "sha256": "07c0e0f03e0c112a6323632867dd781a3042111877f4962cd4a78c87d5645ca9"
+    },
+    "assets/cover-day.png": {
+      "bytes": 2661193,
+      "sha256": "057a190e694682f23d250ff68722321fcd63efbc75d81c80fd8b4cc18f20418b"
+    },
+    "assets/cover-night.png": {
+      "bytes": 2614468,
+      "sha256": "9f4d1f0d8eae982adc62d303534fc9601ec76a461a77aea54f8bdf0488f93b12"
+    },
+    "THIRD_PARTY_NOTICES.txt": {
+      "bytes": 1352,
+      "sha256": "af420d840bbdc9987da3ad1a98fb393edc20f8e64eec71c61d8bce160e43b7c1"
+    },
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: guichao-isles-letters
+    runtime: static
+    buildCommand: node tools/verify-static.mjs
+    staticPublishPath: ./docs
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=0, must-revalidate
