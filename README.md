@@ -2,6 +2,8 @@
 
 THE LETTERS BETWEEN TIDES
 
+**[点击开始游玩](https://jijie616.github.io/-/)**
+
 一款在浏览器中游玩的原创三维叙事冒险。电脑使用键盘与鼠标，手机使用触屏摇杆、交互按钮与手势。无需登录游戏账号，每位玩家有自己的本地进度。
 
 本仓库保存经过构建的公开游玩版本，可用于 GitHub Pages 或 Render Static Site。发布文件位于 `docs/`，模型和图片均随站点提供，不依赖 ChatGPT 登录。
