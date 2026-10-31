@@ -5,8 +5,8 @@
   "preparedAt": "2026-10-31T03:34:35.631Z",
   "files": {
     "index.html": {
-      "bytes": 1134978,
-      "sha256": "2f070ffb05f7270020a2a4ade3273e4cf12b487fa9f2eb93d48cba6f65a858da"
+      "bytes": 1135047,
+      "sha256": "cedd9acbf65580bf219930f8b6b3b2788a4a0f6e1904f61f097fd042d7fab416"
     },
     "assets/world.glb": {
       "bytes": 8981000,
@@ -59,6 +59,13 @@
     ".nojekyll": {
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "assets/guichao-icon.svg": {
+      "bytes": 366,
+      "sha256": "a9e972e6c4e2e1994aa961212ed4632e857b27a688eac0b5b8da9607c5457fe1"
     }
-  }
+  },
+  "hostingChanges": [
+    "Relative favicon for GitHub Pages project paths"
+  ]
 }
